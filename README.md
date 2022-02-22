@@ -2,9 +2,7 @@
 <h3 align="center">Machine Learning Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-living-coral-palette-vector-illustration_317038-363.jpg?size=626&ext=jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somieee20&label=Profile%20views&color=0e75b6&style=flat" alt="somieee20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/somieee20" target="blank"><img src="https://img.shields.io/twitter/follow/somieee20?logo=twitter&style=for-the-badge" alt="somieee20" /></a> </p>
 
 - 🔭 I’m currently working on **Sign language to text synthesis project**
 
@@ -37,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somieee20&show_icons=true&locale=en&layout=compact" alt="somieee20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somieee20&show_icons=true&locale=en" alt="somieee20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somieee20&" alt="somieee20" /></p>
