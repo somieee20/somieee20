@@ -6,15 +6,15 @@
 <p>Full time Undergraduate Student at National University of Computer and Emerging Science (ISB). Doing my Bachelor's of Computer Science in Artificial Intelligence and currently in 6th Semester. I expertise in developing machine learning models and artificial neural networks using best practice techniques. I also have qualitative skills in web application development.
 </p>
 
-- 🔭 I’m currently working on **Intelligent PArking MAnagement System Project**
+- 🔭 I’m currently working on **Intelligent Parking MAnagement System Project**
 
 - 🌱 I’m currently learning **Flutter, Pyramid and Flask**
 
-- 👯 I’m looking to collaborate on **Projects related to machine/deep learning**
+- 👯 I’m looking to collaborate on **Projects related to Machine/Deep Learning, Computer Vision, Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://somieee20.github.io/Portfolio/](https://somieee20.github.io/Portfolio/)
 
-- 💬 Ask me about **Machine/Deep learning models, Web Development**
+- 💬 Ask me about **Machine/Deep Learning models, Artificial Intelligence, Web Development**
 
 - 📫 How to reach me **usamasom99@hotmail.com**
 
