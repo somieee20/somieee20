@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-living-coral-palette-vector-illustration_317038-363.jpg?size=626&ext=jpg">
 
 <h3>Biography</h3>
-<p>Full time Undergraduate Student at National University of Computer and Emerging Science (ISB). Doing my Bachelor's of Computer Science in Artificial Intelligence and currently in 6th Semester. I expertise in developing machine learning models and artificial neural networks using best practice techniques. I also have qualitative skills in web application development.
+<p>Full time Undergraduate Student at National University of Computer and Emerging Science (ISB). Doing my Bachelor's of Computer Science in Artificial Intelligence and currently in 7th Semester. I expertise in developing machine learning models and artificial neural networks using best practice techniques. I also have qualitative skills in web application development.
 </p>
 
 - 🔭 I’m currently working on **Intelligent Parking Management System Project**
