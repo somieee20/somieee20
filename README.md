@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **usamasom99@hotmail.com**
 
-- 📄 Know about my experiences [https://somieee20.github.io/Portfolio/My%20Portfolio/assets/Resume.pdf](https://somieee20.github.io/Portfolio/My%20Portfolio/assets/Muhammad_Usama_Resume.pdf)
+- 📄 Know about my experiences [Portfolio](https://somie.netlify.app/)
 
 - ⚡ Fun fact **AI is the new electricity**
 
