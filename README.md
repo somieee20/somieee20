@@ -6,7 +6,7 @@
 <p>Full time Undergraduate Student at National University of Computer and Emerging Science (ISB). Doing my Bachelor's of Computer Science in Artificial Intelligence and currently in 7th Semester. I expertise in developing machine learning models and artificial neural networks using best practice techniques. I also have qualitative skills in web application development.
 </p>
 
-- 🔭 I’m currently working on **Intelligent Parking Management System Project**
+- 🔭 I’m currently working on **VizBriTS - 2D/3D Segmentation & Visualization of Brain Tumors and sub-regions**
 
 - 🌱 I’m currently learning **Flutter, Pyramid and Flask**
 
