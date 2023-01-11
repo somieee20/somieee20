@@ -12,13 +12,13 @@
 
 - 👯 I’m looking to collaborate on **Projects related to Machine/Deep Learning, Computer Vision, Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://somieee20.github.io/Portfolio/](https://somieee20.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://somie.netlify.app/)
 
 - 💬 Ask me about **Machine/Deep Learning models, Artificial Intelligence, Web Development**
 
 - 📫 How to reach me **usamasom99@hotmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://somie.netlify.app/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lBKq8gvj9NCsyAr73zipQYh3Y03HduPg/view)
 
 - ⚡ Fun fact **AI is the new electricity**
 
